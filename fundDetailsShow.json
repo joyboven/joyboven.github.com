@@ -1,0 +1,17 @@
+{
+	"code":100,
+	"success":true,
+	"resultMsg":null,
+	"data":{
+		"id":1,
+		"sn":"1111111111",
+		"userId":45,
+		"refsn":null,
+		"direction":1,
+		"type":3,
+		"amount":90.00,
+		"balance":820.00,
+		"time":"2016.09.13",
+		"remark":"支付匠人费用"
+	}
+}

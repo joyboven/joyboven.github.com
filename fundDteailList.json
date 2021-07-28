@@ -1,0 +1,27 @@
+{
+	"code":100,
+	"success":true,
+	"resultMsg":"查询成功",
+	"data":[
+		{
+			"id":1,
+			"amount":1000,
+			"time":"2016.09.19",
+			"remark":"支付匠人费用",
+			"direction":1
+		},
+		{
+			"id":2,
+			"amount":1000,
+			"time":"2016.09.19",
+			"remark":"充值",
+			"direction":0
+		},
+	],
+	"pageSize":20,
+	"totalResults":11,
+	"currentPage":1,
+	"totalPage":1,
+	"hasNext":false,
+	"hasPrevious":false
+}

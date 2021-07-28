@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "resultMsg": "请求成功",
+    "success": true,
+    "data": {
+      "userId": 1,
+      "realName": "朱迪",
+      "phone": "131321326290",
+      "qq": "671213232",
+      "wx": "Polly111",
+      "email": "zhudi@163.com",
+      "sex": 1,
+      "age": 23,
+      "userName": "迷路羔羊",
+      "area": "330100",
+      "icon": "/mockstatic/girl.png", 
+      "edu": "本科",
+      "birthday": "1992-04-20"
+    }
+  }
+  

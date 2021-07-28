@@ -1,0 +1,61 @@
+{
+  "code": 100,
+  "success": true,
+  "resultMsg": null,
+  "data": [
+      {
+        "id": 2,
+        "sex": 1,
+        "age": 34,
+        "userName": "赢在投资",
+        "icon": "/default.png",
+        "name": "企业咨询服务",
+        "workArea": "313300",
+        "workTime": "07:30-00:00",
+        "startTime": "2016.06.23",
+        "endTime": "2016.06.23",
+        "workDays": 1,
+        "price": 300.00,
+        "orders": 40,
+        "status": 1
+      },
+      {
+        "id": 3,
+        "sex": 1,
+        "age": 34,
+        "userName": "赢在投资",
+        "icon": "/default.png",
+        "name": "企业咨询1",
+        "workArea": "313300",
+        "workTime": "07:30-11:00 13:00-16:00 20:00-22:30",
+        "startTime": "2016.06.27",
+        "endTime": "2016.06.27",
+        "workDays": 1,
+        "price": 1000.00,
+        "orders": 33,
+        "status": 1
+      },
+      {
+        "id": 4,
+        "sex": 1,
+        "age": 34,
+        "userName": "赢在投资",
+        "icon": "/default.png",
+        "name": "企业咨询2",
+        "workArea": "313300",
+        "workTime": " 20:00-22:30",
+        "startTime": "2016.06.28",
+        "endTime": "2016.06.28",
+        "workDays": 1,
+        "price": 1000.00,
+        "orders": 22,
+        "status": 1
+      }
+    ],
+    "pageSize": 10,
+    "totalResults": 3,
+    "currentPage": 1,
+    "totalPage": 2,
+    "hasNext": false,
+    "hasPrevious": false
+}

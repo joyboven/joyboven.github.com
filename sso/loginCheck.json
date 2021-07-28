@@ -1,0 +1,8 @@
+{
+    "code": 100,
+    "success": true,
+    "resultMsg": null,
+    "data": {
+        "isLogin":true
+    }
+}

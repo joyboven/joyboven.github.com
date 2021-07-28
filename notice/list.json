@@ -1,0 +1,79 @@
+{
+	"code":100,
+	"success":true,
+	"resultMsg":"查询成功",
+	"data":[
+		{
+			"id":21,
+            "title":"资金提醒",
+            "readType":0,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"资金余额不足，请及时续费保证服务进度。"
+		},
+		{
+            "id":21,
+            "title":"实名认证",
+            "readType":0,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"恭喜您，实名认证成功"
+		},{
+			"id":21,
+            "title":"资金提醒",
+            "readType":1,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"资金余额不足，请及时续费保证服务进度。"
+		},
+		{
+            "id":21,
+            "title":"实名认证",
+            "readType":1,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"恭喜您，实名认证成功"
+		},{
+			"id":21,
+            "title":"资金提醒",
+            "readType":1,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"资金余额不足，请及时续费保证服务进度。"
+		},
+		{
+            "id":21,
+            "title":"实名认证",
+            "readType":1,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"恭喜您，实名认证成功"
+		},{
+			"id":21,
+            "title":"资金提醒",
+            "readType":0,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"资金余额不足，请及时续费保证服务进度。"
+		},
+		{
+            "id":21,
+            "title":"实名认证",
+            "readType":0,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"恭喜您，实名认证成功"
+		},{
+			"id":21,
+            "title":"资金提醒",
+            "readType":0,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"资金余额不足，请及时续费保证服务进度。"
+		},
+		{
+            "id":21,
+            "title":"实名认证",
+            "readType":0,
+            "createTime":"2021-03-20 12:12:32",
+            "content":"恭喜您，实名认证成功"
+		}
+	],
+	"pageSize":10,
+	"totalResults":20,
+	"currentPage":1,
+	"totalPage":2,
+	"hasNext":false,
+	"hasPrevious":false
+}

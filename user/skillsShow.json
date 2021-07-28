@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "resultMsg": "请求成功",
+    "success": true,
+    "data": [{"id":1,"name":"技能1","list":[
+        {"imgPath":"/mockstatic/1401.png"},
+        {"imgPath":"/mockstatic/1303.png"}
+    ]}]
+  }
+  

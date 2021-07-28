@@ -1,0 +1,43 @@
+{
+	"code":100,
+	"success":true,
+	"resultMsg":null,
+	"data":[
+		{
+			"id":24,
+			"buyerId":45,
+			"name":"画画",
+			"address":"浙江省杭州市西湖区华星路96号互联网金融大厦10楼",
+			"workTime":"15:00-17:30 21:00-23:30",
+			"status":0,
+			"djrName":"迷路羔羊",
+			"jrName":"米兰",
+			"sn":932139239812312,
+			"statusName":"未开始",
+			"buyerName":"你好",
+			"startDate":20210318,
+			"endDate":20210318,
+			"workSplit":"1,3,5",
+			"totalMoney":200,
+			"taskDate":20161014
+		},
+		{
+			"id":23,
+			"buyerId":45,
+			"name":"绘画",
+			"djrName":"迷路羔羊",
+			"jrName":"米兰",
+			"sn":932139239812313,
+			"address":"浙江省杭州市西湖区华星路96号互联网金融大厦10楼",
+			"workTime":"08:00-11:00 15:00-17:30 20:00-23:00",
+			"status":-1,
+			"statusName":"已取消",
+			"buyerName":"你好",
+			"startDate":20210318,
+			"endDate":20210318,
+			"workSplit":"1,3,5",
+			"totalMoney":200,
+			"taskDate":20161014
+		}
+			]
+}

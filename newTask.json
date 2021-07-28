@@ -1,0 +1,29 @@
+{
+	"code":100,
+	"success":true,
+	"resultMsg":null,
+	"data":[
+		{
+			"id":24,
+			"buyerId":45,
+			"name":"画画",
+			"address":"浙江省杭州市西湖区华星路96号互联网金融大厦10楼",
+			"workTime":"15:00-17:30 21:00-23:30",
+			"status":0,
+			"statusName":"未开始",
+			"buyerName":"你好",
+			"taskDate":20161014
+		},
+		{
+			"id":23,
+			"buyerId":45,
+			"name":"绘画",
+			"address":"浙江省杭州市西湖区华星路96号互联网金融大厦10楼",
+			"workTime":"08:00-11:00 15:00-17:30 20:00-23:00",
+			"status":-1,
+			"statusName":"已取消",
+			"buyerName":"你好",
+			"taskDate":20161014
+		}
+			]
+}

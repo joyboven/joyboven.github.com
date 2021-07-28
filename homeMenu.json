@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "msg": "请求成功",
+  "data": [
+    {
+      "name": "休闲娱乐",
+      "serviceId": 1000,
+      "icon": "/menu.png"
+    },
+    {
+      "name": "口语",
+      "serviceId": 1302,
+      "icon": "/menu.png"
+    },
+    {
+      "name": "平面设计",
+      "serviceId": 1403,
+      "icon": "/menu.png"
+    },
+    {
+      "name": "模特演艺",
+      "serviceId": 1500,
+      "icon": "/menu.png"
+    },
+    {
+      "name": "跑腿代办",
+      "serviceId": 1600,
+      "icon": "/menu.png"
+    }
+  ]
+}

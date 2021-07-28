@@ -1,0 +1,27 @@
+{
+	"code":100,
+	"success":true,
+	"resultMsg":null,
+	"data":{
+		"id":21,
+		"sn":"11100000000002",
+		"buyer":45,
+		"buyName":"你好",
+		"buyIdentityNumber":"33**** **** **** **19",
+		"seller":151,
+		"sellName":"露露",
+		"sellIdentityNumber":"34**** **** **** **14",
+		"jobId":159,
+		"category":1500,
+		"serviceName":"宠物服务1",
+		"description":null,
+		"startTime":"2016.09.22",
+		"endTime":"2016.09.28",
+		"workSplit":"1,5,6,7",
+		"price":2.00,
+		"address":"浙江省杭州市西湖区华星路96号互联网金融大厦10楼",
+		"workTime":"09:00-11:00 14:30-16:00 20:00-23:00",
+		"status":10,
+		"rejectedReason":"被拒绝原因"
+	}
+}

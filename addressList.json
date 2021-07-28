@@ -1,0 +1,27 @@
+{
+  "code": 100,
+  "success": true,
+  "resultMsg": "查询地址成功",
+  "data": [
+    {
+      "id": 1,
+      "address": "浙江浙江省湖州市安吉县孝丰镇陈安村省湖州市安吉县孝丰镇陈县孝丰镇陈安孝丰镇陈安村",
+      "isDefault": 1
+    },
+    {
+      "id": 2,
+      "address": "浙江省杭州市西湖区奉孝路",
+      "is_default": 0
+    },
+    {
+      "id": 3,
+      "address": "浙江省宁波市海曙区天一广场",
+      "is_default": 0
+    },
+    {
+      "id": 4,
+      "address": "江苏省扬州市维扬区 天一路 203号",
+      "is_default": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "code": 100,
+    "success": true,
+    "resultMsg": "查询地址成功",
+    "data": { 
+        "balance": 21.30,
+        "income": 21.00,
+        "expend": 3.00,
+        "isPsd": true,
+        "bank": "32321****0321",
+        "totalMoney": 321321,
+        "freeze": 3123,
+        "standalone": false
+    }
+}
+  

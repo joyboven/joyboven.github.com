@@ -1,0 +1,23 @@
+{
+  "code": 200,
+  "resultMsg": "请求成功",
+  "success": true,
+  "data": {
+    "userId": 1,
+    "phone": "131321326290",
+    "sex": 1,
+    "status":1,
+    "identityName": "迷路羔羊",
+    "portrait": "/mockstatic/girl.png",
+    "price":12000,
+    "finishedHours":10,
+    "unfinishedHours":50,
+    "finishedMoney":120,
+    "statusName":"进行中",
+    "items":[
+      {"status":4,"finishHour":2,"date":"2021-03-19","serviceName":"企业咨询","statusName":"已完成","workTime":"09:00-11:00","costMoney":120},
+      {"status":1,"finishHour":2,"date":"2021-03-19","serviceName":"企业咨询","statusName":"进行中","workTime":"14:00-16:00","costMoney":120},
+      {"status":0,"finishHour":2,"date":"2021-03-20","serviceName":"企业咨询","statusName":"待开始","workTime":"14:00-16:00","costMoney":120}
+    ]
+  }
+}
