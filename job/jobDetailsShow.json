@@ -1,0 +1,59 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "success": true,
+    "resultMsg": "该服务不存在",
+    "data": {
+      "service": {
+        "id": 1,
+        "name": "企业咨询服务",
+        "workTime": "08:30-12:00 14:00-17:00 19:00-21:00",
+        "startTime": "2016.04.10",
+        "endTime": "2016.04.20",
+        "workDays": 10,
+        "price": 200,
+        "orders": 40,
+        "workArea": "330106",
+        "workSplit": "1,2,3,4,5",
+        "address": "杭州市西湖区华星路96号互联网金融大厦10F",
+        "intro": "多年从事中小型制造企业管理咨询课程培训,具备丰富的培训活动策划、实施经验，掌握培训效果评估方法。",
+        "description": "说明文字说明文字说明文字说明文字说明文字说明文字说明文字说明文字说明文字说明文字说明文字说明文字说明文字说明文字",
+        "isFavorite": true,
+        "category":"/mockstatic/bg01.jpg"
+      },
+      "skills": [
+        {
+          "name": "心理咨询"
+        },
+        {
+          "name": "健身教练"
+        },
+        {
+          "name": "摄影"
+        }
+      ],
+      "userInfo": {
+        "userId": 1,
+        "realName": "朱**",
+        "phone": "131****6290",
+        "qq": "671***32",
+        "wx": "Polly***11",
+        "email": "zhud***@163.com",
+        "sex": 1,
+        "age": 23,
+        "nickName": "迷路羔羊",
+        "userName": "迷路羔羊",
+        "area": "330100",
+        "icon": "/mockstatic/girl.png",
+        "edu": "本科",
+        "rate": 4.5
+      },
+      "skillsShow":[
+        {"imgPath":"/mockstatic/1401.png"},
+        {"imgPath":"/mockstatic/1303.png"},
+        {"imgPath":"/mockstatic/1315.png"}
+      ],
+      "haveBought": false
+    }
+  }
+  

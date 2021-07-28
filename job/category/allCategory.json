@@ -1,0 +1,240 @@
+{
+  "code": 100,
+  "success": true,
+  "resultMsg": null,
+  "data": [
+    {
+      "name": "热门行业",
+      "serviceId": 99,
+      "subCategorys": [
+        {
+          "name": "带跑步",
+          "serviceId": 1001,
+          "subCategorys": null
+        },
+        {
+          "name": "健身",
+          "serviceId": 1101,
+          "subCategorys": null
+        },
+        {
+          "name": "推拿",
+          "serviceId": 1201,
+          "subCategorys": null
+        },
+        {
+          "name": "音乐",
+          "serviceId": 1301,
+          "subCategorys": null
+        },
+        {
+          "name": "电脑维修",
+          "serviceId": 1401,
+          "subCategorys": null
+        }
+      ]
+    },
+    {
+      "name": "休闲娱乐",
+      "serviceId": 1000,
+      "subCategorys": [
+        {
+          "name": "带跑步",
+          "serviceId": 1001,
+          "subCategorys": null
+        },
+        {
+          "name": "练唱歌",
+          "serviceId": 1002,
+          "subCategorys": null
+        },
+        {
+          "name": "看电影",
+          "serviceId": 1003,
+          "subCategorys": null
+        },
+        {
+          "name": "逛商城",
+          "serviceId": 1004,
+          "subCategorys": null
+        },
+        {
+          "name": "玩游戏",
+          "serviceId": 1005,
+          "subCategorys": null
+        },
+        {
+          "name": "其他",
+          "serviceId": 1099,
+          "subCategorys": null
+        }
+      ]
+    },
+    {
+      "name": "运动健康",
+      "serviceId": 1100,
+      "subCategorys": [
+        {
+          "name": "健身",
+          "serviceId": 1101,
+          "subCategorys": null
+        },
+        {
+          "name": "游泳",
+          "serviceId": 1102,
+          "subCategorys": null
+        },
+        {
+          "name": "羽毛球",
+          "serviceId": 1103,
+          "subCategorys": null
+        },
+        {
+          "name": "瑜伽",
+          "serviceId": 1104,
+          "subCategorys": null
+        },
+        {
+          "name": "台球",
+          "serviceId": 1105,
+          "subCategorys": null
+        },
+        {
+          "name": "其他",
+          "serviceId": 1199,
+          "subCategorys": null
+        }
+      ]
+    },
+    {
+      "name": "居家生活",
+      "serviceId": 1200,
+      "subCategorys": [
+        {
+          "name": "推拿",
+          "serviceId": 1201,
+          "subCategorys": null
+        },
+        {
+          "name": "宠物",
+          "serviceId": 1202,
+          "subCategorys": null
+        },
+        {
+          "name": "跑腿代办",
+          "serviceId": 1203,
+          "subCategorys": null
+        },
+        {
+          "name": "厨师",
+          "serviceId": 1204,
+          "subCategorys": null
+        },
+        {
+          "name": "家电维修",
+          "serviceId": 1205,
+          "subCategorys": null
+        },
+        {
+          "name": "其他",
+          "serviceId": 1299,
+          "subCategorys": null
+        }
+      ]
+    },
+    {
+      "name": "教育培训",
+      "serviceId": 1300,
+      "subCategorys": [
+        {
+          "name": "音乐",
+          "serviceId": 1301,
+          "subCategorys": null
+        },
+        {
+          "name": "口语",
+          "serviceId": 1302,
+          "subCategorys": null
+        },
+        {
+          "name": "舞蹈",
+          "serviceId": 1303,
+          "subCategorys": null
+        },
+        {
+          "name": "家教",
+          "serviceId": 1304,
+          "subCategorys": null
+        },
+        {
+          "name": "绘画",
+          "serviceId": 1305,
+          "subCategorys": null
+        },
+        {
+          "name": "其他",
+          "serviceId": 1399,
+          "subCategorys": null
+        }
+      ]
+    },
+    {
+      "name": "技术服务",
+      "serviceId": 1400,
+      "subCategorys": [
+        {
+          "name": "电脑维修",
+          "serviceId": 1401,
+          "subCategorys": null
+        },
+        {
+          "name": "手机维修",
+          "serviceId": 1402,
+          "subCategorys": null
+        },
+        {
+          "name": "平面设计",
+          "serviceId": 1403,
+          "subCategorys": null
+        },
+        {
+          "name": "UI设计",
+          "serviceId": 1404,
+          "subCategorys": null
+        },
+        {
+          "name": "文字处理",
+          "serviceId": 1405,
+          "subCategorys": null
+        },
+        {
+          "name": "其他",
+          "serviceId": 1499,
+          "subCategorys": null
+        }
+      ]
+    },
+    {
+      "name": "模特演艺",
+      "serviceId": 1500,
+      "subCategorys": [
+        {
+          "name": "走秀",
+          "serviceId": 1501,
+          "subCategorys": null
+        }
+      ]
+    },
+    {
+      "name": "跑腿代办",
+      "serviceId": 1600,
+      "subCategorys": [
+        {
+          "name": "拿快递",
+          "serviceId": 1601,
+          "subCategorys": null
+        }
+      ]
+    }
+  ]
+}

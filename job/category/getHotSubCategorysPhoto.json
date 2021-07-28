@@ -1,0 +1,66 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "data": [
+      {
+        "name": "休闲娱乐",
+        "serviceId": 1315,
+        "icon": "/mockstatic/1315.png"
+      },
+      {
+        "name": "口语",
+        "serviceId": 1302,
+        "icon": "/mockstatic/1302.png"
+      },
+      {
+        "name": "平面设计",
+        "serviceId": 1403,
+        "icon": "/mockstatic/1403.png"
+      },
+      {
+        "name": "模特演艺",
+        "serviceId": 1402,
+        "icon": "/mockstatic/1402.png"
+      },
+      {
+        "name": "跑腿代办",
+        "serviceId": 1511,
+        "icon": "/mockstatic/1511.png"
+      },
+      {
+        "name": "亲子活动",
+        "serviceId": 1504,
+        "icon": "/mockstatic/1504.png"
+      },
+      {
+        "name": "模特演艺",
+        "serviceId": 1402,
+        "icon": "/mockstatic/1402.png"
+      },
+      {
+        "name": "跑腿代办",
+        "serviceId": 1511,
+        "icon": "/mockstatic/1511.png"
+      },
+      {
+        "name": "亲子活动",
+        "serviceId": 1504,
+        "icon": "/mockstatic/1504.png"
+      },{
+        "name": "休闲娱乐",
+        "serviceId": 1315,
+        "icon": "/mockstatic/1315.png"
+      },
+      {
+        "name": "口语",
+        "serviceId": 1302,
+        "icon": "/mockstatic/1302.png"
+      },
+      {
+        "name": "平面设计",
+        "serviceId": 1403,
+        "icon": "/mockstatic/1403.png"
+      }
+    ]
+  }
+  
